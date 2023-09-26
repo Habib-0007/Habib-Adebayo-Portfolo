@@ -28,7 +28,7 @@ let Showcase = () => {
             font-semibold hover:bg-transparent hover:border-2
             hover:border-purple-500 hover:text-purple-500"
             >
-               Hire me
+               <a href="mailto:adebayohabib7@gmail.com">Hire Me</a>
             </button>
          </div>
          <div className="w-1/2 hidden md:block">
