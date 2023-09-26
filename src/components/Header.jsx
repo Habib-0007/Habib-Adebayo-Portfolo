@@ -33,20 +33,13 @@ let Header = () => {
          >
             <li
                className="text-xl px-5 py-3 text-purple-500"
-               onClick={handleNav}
             >
                <a href="#about"> About </a>
             </li>
-            <li
-               className="text-xl px-5 py-3 text-purple-500"
-               onClick={handleNav}
-            >
+            <li className="text-xl px-5 py-3 text-purple-500">
                <a href="#projects"> Projects </a>
             </li>
-            <li
-               className="text-xl px-5 py-3 text-purple-500"
-               onClick={handleNav}
-            >
+            <li className="text-xl px-5 py-3 text-purple-500">
                <a href="#contact"> Contact </a>
             </li>
          </ul>
