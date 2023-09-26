@@ -364,7 +364,7 @@ let ProjectsCard = () => {
                <a href="https://github.com/Habib-0007/Advice-generator-code-challenge-by-Frontend-mentor">
                   <i className="fa fa-github text-4xl text-purple-500"></i>
                </a>
-               <a href="https://advuce.netlify.app">
+               <a href="https://advyce.netlify.app">
                   <i
                      className="fa fa-arrow-right text-2xl text-purple-500
                      py-1 px-2 border-2 border-purple-500"
