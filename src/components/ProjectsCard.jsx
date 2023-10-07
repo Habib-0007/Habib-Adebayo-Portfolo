@@ -2,7 +2,7 @@ let ProjectsCard = () => {
    return (
       <div
          className="grid grid-cols-1 md:grid-cols-2 mx-2 mt-10
-            place-content-center content-center  gap-6 md:gap-4"
+            place-content-center content-center  gap-6 md:gap-4 bg-white"
       >
          <div
             className="box-shad px-3 py-5 rounded h-full bg-white"
