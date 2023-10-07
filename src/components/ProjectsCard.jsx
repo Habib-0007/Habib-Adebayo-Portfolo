@@ -3,6 +3,10 @@ let ProjectsCard = () => {
       <div
          className="grid grid-cols-1 md:grid-cols-2 mx-2 mt-10
             place-content-center content-center  gap-6 md:gap-4 bg-white"
+            data-aos="fade-up"
+            data-aos-delay="200"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in"
       >
          <div
             className="box-shad px-3 py-5 rounded h-full bg-white"
