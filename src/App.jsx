@@ -1,20 +1,19 @@
 import "./App.css";
-import Header from "./components/Header";
-import Showcase from "./components/Showcase";
-import About from "./components/About";
-import Projects from "./components/Projects";
-import Contact from "./components/Contact";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import HomePage from "./HomePage";
+import ProjectsRoute from "./ProjectsRoute";
 
 function App() {
-   return (
-      <main>
-         <Header />
-         <Showcase />
-         <About />
-         <Projects />
-         <Contact />
-      </main>
-   );
+	return (
+		<BrowserRouter>
+			<main>
+				<Routes>
+					<Route exact path="/" element={<HomePage />} />
+					<Route path="/projects" element={<ProjectsRoute />} />
+				</Routes>
+			</main>
+		</BrowserRouter>
+	);
 }
 
 export default App;
