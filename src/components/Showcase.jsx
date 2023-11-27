@@ -24,7 +24,7 @@ let Showcase = () => {
                and interactive elements.
             </p>
             <button
-               class="text-xl bg-purple-500 rounded px-6 py-2 text-white
+               className="text-xl bg-purple-500 rounded px-6 py-2 text-white
             font-semibold hover:bg-transparent hover:border-2
             hover:border-purple-500 hover:text-purple-500"
             >

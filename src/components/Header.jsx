@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
 let Header = () => {
 	let [navIcon, setNavIcon] = useState("fa-bars");
@@ -32,10 +33,10 @@ let Header = () => {
             flex-row"
 			>
 				<li className="text-xl px-5 py-3 text-purple-500">
-					<a href="#about"> About </a>
+					<Link to="/"> Home </Link>
 				</li>
 				<li className="text-xl px-5 py-3 text-purple-500">
-					<a href="/projects"> Projects </a>
+					<Link to="/projects"> Projects </Link>
 				</li>
 				<li className="text-xl px-5 py-3 text-purple-500">
 					<a href="#contact"> Contact </a>
@@ -52,10 +53,10 @@ let Header = () => {
             md:flex-row flex-col gap-y-3"
 				>
 					<li className="text-xl px-5 py-3 text-purple-500" onClick={handleNav}>
-						<a href="#about"> About </a>
+						<Link to="/"> Home </Link>
 					</li>
 					<li className="text-xl px-5 py-3 text-purple-500" onClick={handleNav}>
-						<a href="/projects"> Projects </a>
+						<Link to="/projects"> Projects </Link>
 					</li>
 					<li className="text-xl px-5 py-3 text-purple-500" onClick={handleNav}>
 						<a href="#contact"> Contact </a>

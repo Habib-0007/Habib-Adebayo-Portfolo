@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 let ProjectsCard = () => {
 	return (
 		<div
@@ -82,6 +84,15 @@ let ProjectsCard = () => {
 					<p className="text-xl text-white px-3 py-1 bg-black font-bold">API</p>
 				</div>
 			</div>
+
+			<Link to="/projects">
+				<p
+					className="block bg-purple-500 text-white py-3 px-4 text-xl font-bold
+				text-center"
+				>
+					See more...
+				</p>
+			</Link>
 		</div>
 	);
 };
