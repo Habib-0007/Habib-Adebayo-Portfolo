@@ -16,7 +16,7 @@ const p = () => {
 		{
 			github: "https://github.com/Habib-0007/Izreal",
 			url: "https://izreal.netlify.app/",
-			name: "",
+			name: "Izreal Pickup Lines",
 			language: ["HTML5", "CSS3", "JavaScript", "JSON", "FETCH"]
 		},
 		{
