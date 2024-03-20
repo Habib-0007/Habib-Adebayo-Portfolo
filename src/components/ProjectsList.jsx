@@ -28,10 +28,10 @@ const ProjectsList = () => {
 						className="box-shad p-[20px] rounded h-full bg-white"
 					>
 						<div className="flex justify-between items-center">
-							<a href={project.github}>
+							<a href={project.github} target="_blank">
 								<i className="fab fa-github text-4xl text-purple-500"></i>
 							</a>
-							<a href={project.url}>
+							<a href={project.url} target="_blank">
 								<i className="fa fa-link text-4xl text-purple-500"></i>
 							</a>
 						</div>

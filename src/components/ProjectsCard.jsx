@@ -19,10 +19,10 @@ let ProjectsCard = () => {
 					data-aos-easing="ease-in"
 				>
 					<div className="flex justify-between items-center">
-						<a href="https://github.com/Habib-0007/ip-address-tracker">
+						<a href="https://github.com/Habib-0007/ip-address-tracker" target="_blank">
 							<i className="fab fa-github text-4xl text-purple-500"></i>
 						</a>
-						<a href="https://ip-address-tracker-three-ochre.vercel.app/">
+						<a href="https://ip-address-tracker-three-ochre.vercel.app/" target="_blank">
 							<i className="fa fa-link text-4xl text-purple-500"></i>
 						</a>
 					</div>
@@ -54,10 +54,10 @@ let ProjectsCard = () => {
 					data-aos-easing="ease-in"
 				>
 					<div className="flex justify-between items-center">
-						<a href="https://github.com/Habib-0007/Draggg-sortable">
+						<a href="https://github.com/Habib-0007/Draggg-sortable" target="_blank">
 							<i className="fab fa-github text-4xl text-purple-500"></i>
 						</a>
-						<a href="https://draggg-sortable.vercel.app/">
+						<a href="https://draggg-sortable.vercel.app/" target="_blank">
 							<i className="fa fa-link text-4xl text-purple-500"></i>
 						</a>
 					</div>

@@ -51,7 +51,7 @@ const p = () => {
 		{
 			github: "https://github.com/Habib-0007/shortly-url-shortener",
 			url: "https://shortly-url-shortener-two.vercel.app/",
-			name: "shortly Url Shortener",
+			name: "Shortly URL Shortener",
 			language: ["Nextjs", "TailwindCSS", "JavaScript"],
 		},
 		{
