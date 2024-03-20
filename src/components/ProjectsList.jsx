@@ -25,7 +25,7 @@ const ProjectsList = () => {
 				{projects.map((project, index) => (
 					<div
 						key={index}
-						className="box-shad px-3 py-5 rounded h-full bg-white"
+						className="box-shad p-[20px] rounded h-full bg-white"
 					>
 						<div className="flex justify-between items-center">
 							<a href={project.github}>

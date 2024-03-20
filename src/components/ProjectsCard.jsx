@@ -12,7 +12,7 @@ let ProjectsCard = () => {
 				data-aos-easing="ease-in"
 			>
 				<div
-					className="box-shad px-3 py-5 rounded-[14px] h-full bg-white"
+					className="box-shad p-[20px] rounded-[14px] h-full bg-white"
 					data-aos="fade-up"
 					data-aos-delay="200"
 					data-aos-duration="1000"
@@ -47,7 +47,7 @@ let ProjectsCard = () => {
 					</div>
 				</div>
 				<div
-					className="box-shad px-3 py-5 rounded-[14px] h-full bg-white"
+					className="box-shad p-[20px] rounded-[14px] h-full bg-white"
 					data-aos="fade-up"
 					data-aos-delay="200"
 					data-aos-duration="1000"
