@@ -38,18 +38,9 @@ const ProjectsList = () => {
 						<h1 className="font-bold text-3xl my-4">{project.name}</h1>
 						<p className="text-xl"></p>
 						<div className="flex justify-start items-center flex-wrap mt-3 gap-3 w-9/12">
-							<p className="text-xl text-white px-3 py-1 bg-black font-bold">
-								HTML5
-							</p>
-							<p className="text-xl text-white px-3 py-1 bg-black font-bold">
-								CSS3
-							</p>
-							<p className="text-xl text-white px-3 py-1 bg-black font-bold">
-								JavaScript
-							</p>
-							<p className="text-xl text-white px-3 py-1 bg-black font-bold">
-								Animate CSS
-							</p>
+							{project.language.map(lan => (
+								<p className="text-xl text-white px-3 py-1 bg-black font-bold">{lan}</p>
+							))}
 						</div>
 					</div>
 				))}

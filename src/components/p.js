@@ -4,95 +4,87 @@ const p = () => {
 			github: "https://github.com/Habib-0007/RPG-Game",
 			url: "https://rpgamee.netlify.app/",
 			name: "Rock Paper Scissors Game",
-			language: ["HTML", "CSS", "Animate CSS", "JavaScript"]
+			language: ["HTML", "CSS", "Animate CSS", "JavaScript"],
 		},
 		{
-			github:
-				"https://github.com/Habib-0007/Expense-Chart-Component-Challenge-by-Frontend-Mentor",
-			url: "https://expenxe.netlify.app/",
-			name: "Expense Chart (Frontend Mentor Challenge)",
-			language: ["HTML5", "CSS3", "JavaScript", "JSON", "FETCH"]
+			github: "https://github.com/Habib-0007/Github-user-search",
+			url: "https://github-devs.vercel.app/",
+			name: "Github User Search",
+			language: ["React", "CSS3", "JavaScript", "FETCH", "GITHUB API"],
 		},
 		{
-			github: "https://github.com/Habib-0007/Izreal",
-			url: "https://izreal.netlify.app/",
-			name: "Izreal Pickup Lines",
-			language: ["HTML5", "CSS3", "JavaScript", "JSON", "FETCH"]
+			github: "https://github.com/Habib-0007/FakeSearch-",
+			url: "https://fake-search.vercel.app/",
+			name: "FakeSearch",
+			language: ["HTML5", "CSS3", "JavaScript", "HTML CANVAS"],
 		},
 		{
-			github: "https://github.com/Habib-0007/Emplay",
-			url: "https://emplay.netlify.app/",
-			name: "Music Player",
-			language: ["HTML5", "CSS3", "JavaScript", "HTML5 Audio"]
+			github: "https://github.com/Habib-0007/Code-Editor-",
+			url: "https://writecode.vercel.app/",
+			name: "Code Editor",
+			language: ["HTML5", "CSS3", "JavaScript", "Highlightjs", "iFrame"],
 		},
 		{
 			github: "https://github.com/Habib-0007/Muvvies-hngProjectTwo",
 			url: "https://muvvies-hng-project-two.vercel.app/",
 			name: "Muvvies (HNGx Internship task)",
-			language: [
-				"HTML5",
-				"CSS3",
-				"Tailwind CSS",
-				"JavaScript",
-				"FETCH",
-				"TMDb API"
-			]
+			language: ["React", "TailwindCSS", "JavaScript", "FETCH", "TMDb API"],
 		},
 		{
 			github: "https://github.com/Habib-0007/Draggg-sortable",
 			url: "https://draggg-sortable.vercel.app/",
 			name: "Draggg (HNGx Internship task)",
-			language: ["React", "JSX", "CSS3", "Auth0", "React Easy Sort"]
+			language: ["React", "CSS3", "Auth0", "React Easy Sort"],
 		},
 		{
 			github: "https://github.com/Habib-0007/Predicht",
 			url: "https://predicht.netlify.app/",
 			name: "Gender Predictor by name",
-			language: ["HTML5", "CSS3", "JavaScript", "API", "FETCH"]
+			language: ["HTML5", "CSS3", "JavaScript", "API", "FETCH"],
 		},
 		{
-			github: "https://github.com/Habib-0007/Stirk-Calculator",
-			url: "https://stirk.netlify.app/",
-			name: "Glassmorphism Calculator",
-			language: ["HTML5", "CSS3", "JavaScript"]
+			github: "https://github.com/Habib-0007/Tassks",
+			url: "https://tassks.vercel.app/",
+			name: "Tassks",
+			language: ["HTML5", "CSS3", "JavaScript", "localStorage"],
 		},
 		{
-			github: "https://github.com/Habib-0007/Soff",
-			url: "https://soffcal.netlify.app/",
-			name: "Quadratic & Simultaneous Equation Calculator",
-			language: ["HTML5", "CSS3", "JavaScript"]
+			github: "https://github.com/Habib-0007/shortly-url-shortener",
+			url: "https://shortly-url-shortener-two.vercel.app/",
+			name: "shortly Url Shortener",
+			language: ["Nextjs", "TailwindCSS", "JavaScript"],
 		},
 		{
 			github:
 				"https://github.com/Habib-0007/Advice-generator-code-challenge-by-Frontend-mentor",
 			url: "https://advyce.netlify.app/",
-			name: "Advice Generator (Frontend Mentor Challenge)",
-			language: ["HTML5", "CSS3", "JavaScript", "API", "FETCH"]
+			name: "Advice Generator",
+			language: ["HTML5", "CSS3", "JavaScript", "API", "FETCH"],
 		},
 		{
-			github: "https://github.com/Habib-0007/Friiy",
-			url: "https://friiy.netlify.app/",
-			name: "Age Calculator",
-			language: ["HTML5", "CSS3", "JavaScript"]
+			github: "https://github.com/Habib-0007/Tesla-Clone",
+			url: "https://tesssla.netlify.app/",
+			name: "Tesla Clone",
+			language: ["HTML5", "CSS3", "JavaScript", "SCSS"],
 		},
 		{
-			github: "https://github.com/Habib-0007/easybank-page",
-			url: "https://easybank-page.netlify.app/",
-			name: "Easybank landing page (Frontend Mentor Challenge)",
-			language: ["HTML5", "CSS3", "JavaScript"]
+			github: "https://github.com/Habib-0007/Bookmark-landing-page",
+			url: "https://github.com/Habib-0007/Bookmark-landing-page",
+			name: "Bookmark Landing Page",
+			language: ["HTML5", "CSS3", "JavaScript"],
 		},
 		{
-			github: "https://github.com/Habib-0007/Lafff",
-			url: "https://lafff.netlify.app/",
-			name: "Funny Dad jokes",
-			language: ["HTML5", "CSS3", "JavaScript", "API", "FETCH"]
+			github: "https://github.com/Habib-0007/Kalkulate-Frontend-mentor-project",
+			url: "https://kalkulate-frontend-mentor-project.vercel.app/",
+			name: "Kalkulate Calculator",
+			language: ["HTML5", "CSS3", "JavaScript"],
 		},
 		{
-			github: "https://github.com/Habib-0007/Muhiz",
-			url: "https://muhiz.netlify.app/",
-			name: "Random Memes Generator",
-			language: ["HTML5", "CSS3", "JavaScript", "API", "FETCH"]
-		}
+			github: "https://github.com/Habib-0007/Tyc-Tak-To",
+			url: "https://tyc-tak-to.vercel.app/",
+			name: "Tyc-Tak-To",
+			language: ["React", "TailwindCSS", "CSS3", "JavaScript"],
+		},
 	];
 
 	return projects;
