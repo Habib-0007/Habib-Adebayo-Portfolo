@@ -62,6 +62,13 @@ let Contact = () => {
 				>
 					<i className="fab fa-whatsapp"></i>
 				</a>
+
+			<a
+					href="https://www.linkedin.com/in/habib-adebayo-76b00423a?trk=contact-info"
+					className="text-3xl"
+				>
+					<i className="fab fa-linkedin"></i>
+				</a>
 			</div>
 		</section>
 	);
