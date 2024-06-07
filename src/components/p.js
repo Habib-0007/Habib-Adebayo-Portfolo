@@ -1,5 +1,5 @@
 const p = () => {
-	let projects = [
+	var projects = [
 		{
 			github: "https://github.com/Habib-0007/RPG-Game",
 			url: "https://rpgamee.netlify.app/",
