@@ -12,7 +12,7 @@ let Showcase = () => {
          gap-y-2 md:w-1/2 order-2 md:order-1"
 			>
 				<p className="text-2xl">Hi, I'm</p>
-				<h1 className="font-extrabold text-5xl"> Habib Adebayo</h1>
+				<h1 className="font-extrabold text-5xl"> Habib Opeyemi Adebayo </h1>
 				<small className="text-purple-500 text-lg font-semibold">
 					Frontend developer
 				</small>
