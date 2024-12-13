@@ -32,6 +32,7 @@ let Showcase = () => {
 			<div className="w-1/2 block order-1 md:order-2 md:block">
 				<img
 					src="/Habib.jpg"
+					load="lazy"
 					alt="Habib's Image"
 					className="img md:w-96 md:h-96 rounded-full object-cover md:ms-auto md:border-8 border-purple-500"
 				/>
