@@ -19,30 +19,33 @@ let ProjectsCard = () => {
 					data-aos-easing="ease-in"
 				>
 					<div className="flex justify-between items-center">
-						<a href="https://github.com/Habib-0007/ip-address-tracker" target="_blank">
+						<a href="https://github.com/Habib-0007/fuoyecbt" target="_blank">
 							<i className="fab fa-github text-4xl text-purple-500"></i>
 						</a>
-						<a href="https://ip-address-tracker-three-ochre.vercel.app/" target="_blank">
+						<a href="https://fuoyecbt.vercel.app/" target="_blank">
 							<i className="fa fa-link text-4xl text-purple-500"></i>
 						</a>
 					</div>
-					<h1 className="font-bold text-3xl my-4">IP Address Tracker</h1>
+					<h1 className="font-bold text-3xl my-4">FUOYE CBT Application</h1>
 					<p className="text-xl"></p>
 					<div className="flex justify-start items-center flex-wrap mt-3 gap-3 w-9/12">
 						<p className="text-xl text-white px-3 py-1 bg-black font-bold">
 							React
 						</p>
 						<p className="text-xl text-white px-3 py-1 bg-black font-bold">
-							JavaScript
+							Typescript 
 						</p>
 						<p className="text-xl text-white px-3 py-1 bg-black font-bold">
-							CSS3
+							JavaScript 
 						</p>
 						<p className="text-xl text-white px-3 py-1 bg-black font-bold">
-							IPAPI
+							Tailwind 
 						</p>
 						<p className="text-xl text-white px-3 py-1 bg-black font-bold">
-							Leafletjs
+							Express
+						</p>
+        <p className="text-xl text-white px-3 py-1 bg-black font-bold">
+							MongoDB
 						</p>
 					</div>
 				</div>
