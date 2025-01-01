@@ -1,12 +1,12 @@
 const p = () => {
-	var projects = [
+	const projects = [
 		{
 			github: "https://github.com/Habib-0007/fuoyecbt",
 			url: "https://fuoyecbt.netlify.app/",
-			name: "FUOYE CBT Application ",
+			name: "FUOYE CBT Application",
 			language: ["React", "React Context API", "Typescript", "Express", "MongoDB" "JavaScript"],
 		},
-{
+  {
 			github: "https://github.com/Habib-0007/RPG-Game",
 			url: "https://rpgamee.netlify.app/",
 			name: "Rock Paper Scissors Game",
