@@ -1,4 +1,4 @@
-import ProjectsList from "./components/ProjectsList";
+import ProjectsList from "../components/ProjectsList";
 
 const ProjectsRoute = () => {
 	return (

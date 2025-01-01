@@ -1,4 +1,4 @@
-let About = () => {
+const About = () => {
 	return (
 		<section
 			className="mt-16 px-3"

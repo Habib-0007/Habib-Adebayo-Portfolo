@@ -1,7 +1,7 @@
 import p from "./p";
 
 const ProjectsList = () => {
-	let projects = p();
+	const projects = p();
 
 	return (
 		<section className="flex justify-center items-center flex-col mt-[32px]">

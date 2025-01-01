@@ -1,4 +1,4 @@
-let Contact = () => {
+const Contact = () => {
 	return (
 		<section
 			className="mt-16 px-3 mb-8"

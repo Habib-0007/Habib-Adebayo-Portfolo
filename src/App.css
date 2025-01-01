@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
 
 * {
-	font-family: "Inter", sans-serif;
+	font-family: "Muli", sans-serif;
 	scroll-behavior: smooth;
 }
 

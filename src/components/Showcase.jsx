@@ -1,4 +1,4 @@
-let Showcase = () => {
+const Showcase = () => {
 	return (
 		<section
 			className="px-3 mt-10 flex flex-col md:flex-row md:justify-between md:items-center relative"

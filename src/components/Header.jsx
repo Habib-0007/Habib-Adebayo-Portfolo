@@ -1,11 +1,13 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 
-let Header = () => {
-	let [navIcon, setNavIcon] = useState("fa-bars");
-	let [showNav, setShowNav] = useState(false);
+const Header = () => {
+	const [navIcon, setNavIcon] =
+		useState("fa-bars");
+	const [showNav, setShowNav] =
+		useState(false);
 
-	let handleNav = () => {
+ const handleNav = () => {
 		if (navIcon == "fa-bars") {
 			setNavIcon("fa-times");
 			setShowNav(true);
@@ -18,12 +20,20 @@ let Header = () => {
 	return (
 		<header className="flex justify-between items-center px-3 py-4">
 			<h1 className="font-extrabold text-4xl">
-				<span className="text-purple-500">Ha</span>bib
+				<span className="text-purple-500">
+					Ha
+				</span>
+				bib
 			</h1>
-			<div className="md:hidden" onClick={handleNav}>
+			<div
+				className="md:hidden"
+				onClick={handleNav}
+			>
 				<i
 					className={`fa ${
-						navIcon == "fa-bars" ? "fa-bars" : "fa-times"
+						navIcon == "fa-bars"
+							? "fa-bars"
+							: "fa-times"
 					} text-3xl`}
 				></i>
 			</div>
@@ -36,10 +46,16 @@ let Header = () => {
 					<Link to="/"> Home </Link>
 				</li>
 				<li className="text-xl px-5 py-3 text-purple-500">
-					<Link to="/projects"> Projects </Link>
+					<Link to="/projects">
+						{" "}
+						Projects{" "}
+					</Link>
 				</li>
 				<li className="text-xl px-5 py-3 text-purple-500">
-					<a href="#contact"> Contact </a>
+					<a href="#contact">
+						{" "}
+						Contact{" "}
+					</a>
 				</li>
 			</ul>
 
@@ -52,14 +68,29 @@ let Header = () => {
 					className="flex justify-center items-start md:gap-x-2
             md:flex-row flex-col gap-y-3"
 				>
-					<li className="text-xl px-5 py-3 text-purple-500" onClick={handleNav}>
+					<li
+						className="text-xl px-5 py-3 text-purple-500"
+						onClick={handleNav}
+					>
 						<Link to="/"> Home </Link>
 					</li>
-					<li className="text-xl px-5 py-3 text-purple-500" onClick={handleNav}>
-						<Link to="/projects"> Projects </Link>
+					<li
+						className="text-xl px-5 py-3 text-purple-500"
+						onClick={handleNav}
+					>
+						<Link to="/projects">
+							{" "}
+							Projects{" "}
+						</Link>
 					</li>
-					<li className="text-xl px-5 py-3 text-purple-500" onClick={handleNav}>
-						<a href="#contact"> Contact </a>
+					<li
+						className="text-xl px-5 py-3 text-purple-500"
+						onClick={handleNav}
+					>
+						<a href="#contact">
+							{" "}
+							Contact{" "}
+						</a>
 					</li>
 				</ul>
 			</div>

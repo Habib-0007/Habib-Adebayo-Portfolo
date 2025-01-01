@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-let ProjectsCard = () => {
+const ProjectsCard = () => {
 	return (
 		<div className="flex justify-start items-center gap-[24px] flex-col">
 			<div

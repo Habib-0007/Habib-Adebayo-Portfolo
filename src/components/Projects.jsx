@@ -1,6 +1,6 @@
 import ProjectsCard from "./ProjectsCard";
 
-let Projects = () => {
+const Projects = () => {
 	return (
 		<section className="mt-16 px-2 mb-10" id="projects">
 			<div className="flex justify-center items-center flex-col">

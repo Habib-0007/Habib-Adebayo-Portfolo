@@ -1,6 +1,6 @@
-import Showcase from "./components/Showcase";
-import About from "./components/About";
-import Projects from "./components/Projects";
+import Showcase from "../components/Showcase";
+import About from "../components/About";
+import Projects from "../components/Projects";
 
 const HomePage = () => {
 	return (
