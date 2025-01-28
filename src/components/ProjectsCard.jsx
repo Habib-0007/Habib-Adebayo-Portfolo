@@ -87,7 +87,7 @@ const ProjectsCard = () => {
 			</div>
 			<a
 				href="/projects"
-				className="block bg-purple-500 text-white py-[12px] px-[28px] text-[20px] font-bold text-center rounded-[12px] hover:bg-purple-400"
+				className="block bg-purple-500 text-white py-[12px] px-[28px] text-[16px] font-bold text-center rounded-[6px] hover:bg-purple-400"
 			>
 				See more...
 			</a>
