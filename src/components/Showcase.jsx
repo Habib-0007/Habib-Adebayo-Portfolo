@@ -16,7 +16,7 @@ const Showcase = () => {
 				<small className="text-purple-500 text-lg font-semibold">
 					Frontend developer
 				</small>
-				<p className="text-[20px] leading-[1.6]">
+				<p className="text-[16px] leading-[1.6]">
 					As a frontend developer, I'm specialize in creating the user
 					interfaces and experiences that makes websites and web applications
 					visually appealing and user-friendly. my skills include coding in
