@@ -44,7 +44,7 @@ const About = () => {
 					>
 						Typescript 
 					</span>,{" "}
-span className="text-purple-500 text-center font-bold">
+<span className="text-purple-500 text-center font-bold">
 						Nodejs
 					</span>, {" "}
 <span className="text-purple-500 text-center font-bold">
