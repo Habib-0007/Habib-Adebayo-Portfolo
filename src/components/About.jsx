@@ -15,20 +15,20 @@ const About = () => {
 				<p className="text-[16px] mt-[20px] leading-[1.5] font-medium text-left">
 					I'm{" "}
 					<span className="text-purple-500 text-center font-bold">Habib Adebayo</span>,
-					a Junior Frontend Developer with a passion for crafting engaging web
+					a Full Stack Developer with a passion for crafting engaging web
 					experiences. Proficient in{" "}
 					<span
 						className="text-purple-500
                text-center font-bold"
 					>
-						HTML
+						Reactjs
 					</span>
 					,{" "}
 					<span
 						className="text-purple-500
                text-center font-bold"
 					>
-						CSS
+						Nextjs
 					</span>
 					,{" "}
 					<span
@@ -42,11 +42,26 @@ const About = () => {
 						className="text-purple-500
                text-center font-bold"
 					>
-						React
+						Typescript 
 					</span>
 					, and{" "}
 					<span className="text-purple-500 text-center font-bold">
 						TailwindCSS
+					</span> 
+<span className="text-purple-500 text-center font-bold">
+						Nodejs
+					</span>
+<span className="text-purple-500 text-center font-bold">
+						Expressjs 
+					</span>
+<span className="text-purple-500 text-center font-bold">
+						MongoDB 
+					</span>
+<span className="text-purple-500 text-center font-bold">
+						PostgresSQL 
+					</span>
+<span className="text-purple-500 text-center font-bold">
+						Prisma
 					</span>
 					, I thrive on the intersection of creativity and technology. My
 					journey into web development was driven by a fascination with the
