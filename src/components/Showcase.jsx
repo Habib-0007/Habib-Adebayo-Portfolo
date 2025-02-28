@@ -14,14 +14,12 @@ const Showcase = () => {
 				<p className="text-2xl">Hi, I'm</p>
 				<h1 className="font-extrabold text-5xl"> Habib Opeyemi Adebayo </h1>
 				<small className="text-purple-500 text-lg font-semibold">
-					Frontend developer
+					Fullstack Developer
 				</small>
 				<p className="text-[16px] leading-[1.6]">
-					As a frontend developer, I'm specialize in creating the user
+					As a fullstack developer, I'm specialize in creating the user
 					interfaces and experiences that makes websites and web applications
-					visually appealing and user-friendly. my skills include coding in
-					HTML, CSS, and JavaScript to design responsive and interactive
-					elements.
+					visually appealing and user-friendly. my skills include coding in React, Next, Typescript and JavaScript to design responsive and interactive elements, and using Node, Express, MongoDB etc. to create performant apis.
 				</p>
 				<button
 					className="text-xl bg-purple-500 rounded px-6 py-2 text-white font-semibold hover:bg-purple-400"
