@@ -43,26 +43,26 @@ const About = () => {
                text-center font-bold"
 					>
 						Typescript 
+					</span>,{" "}
+span className="text-purple-500 text-center font-bold">
+						Nodejs
+					</span>, {" "}
+<span className="text-purple-500 text-center font-bold">
+						Expressjs 
+					</span>, {" "}
+<span className="text-purple-500 text-center font-bold">
+						MongoDB 
+					</span>, {" "}
+<span className="text-purple-500 text-center font-bold">
+						PostgresSQL 
+					</span>, {" "}
+<span className="text-purple-500 text-center font-bold">
+						Prisma
 					</span>
 					, and{" "}
 					<span className="text-purple-500 text-center font-bold">
 						TailwindCSS
 					</span> 
-<span className="text-purple-500 text-center font-bold">
-						Nodejs
-					</span>
-<span className="text-purple-500 text-center font-bold">
-						Expressjs 
-					</span>
-<span className="text-purple-500 text-center font-bold">
-						MongoDB 
-					</span>
-<span className="text-purple-500 text-center font-bold">
-						PostgresSQL 
-					</span>
-<span className="text-purple-500 text-center font-bold">
-						Prisma
-					</span>
 					, I thrive on the intersection of creativity and technology. My
 					journey into web development was driven by a fascination with the
 					digital world's potential. With a solid foundation in HTML and CSS, I
