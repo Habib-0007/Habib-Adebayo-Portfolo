@@ -57,7 +57,7 @@ const Contact = () => {
 				</a>
 
 				<a
-					href="https://wa.me/+2349019166356"
+					href="https://wa.me/+2349168403177"
 					className="text-3xl"
 				>
 					<i className="fab fa-whatsapp"></i>
