@@ -29,7 +29,7 @@ const Contact = () => {
 						</p>
 						<p className="text-md">
 							<i className="fab fa-whatsapp mr-3 text-xl"></i>
-							+234 901 916 6356
+					  	+234 916 840 3177
 						</p>
 					</div>
 				</div>
